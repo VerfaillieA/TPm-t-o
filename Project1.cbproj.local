@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/15 16:42:25.000.315,=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/10/15 16:42:25.000.292,=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/15 16:42:34.000.583,C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\Unit1.h</Transaction>
+    <Transaction>2019/10/15 16:42:34.000.583,C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\Unit1.cpp</Transaction>
+    <Transaction>2019/10/15 16:42:34.000.583,C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\Unit1.dfm</Transaction>
+    <Transaction>2019/10/15 16:42:35.000.444,C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/15 16:42:36.000.464,C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\Project1.cbproj</Transaction>
+    <Transaction>2019/10/15 17:15:06.668,=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\PCI-Dask.dll</Transaction>
+    <Transaction>2019/10/15 17:15:13.928,=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\pdask_bc.lib</Transaction>
+    <Transaction>2019/10/15 17:15:24.821,=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\Include\Dask.h</Transaction>
+    <Transaction>2019/10/15 17:15:24.833,=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\Include\DAQHeader.h</Transaction>
+    <Transaction>2019/10/15 17:23:47.354,=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\File1.cpp</Transaction>
+    <Transaction>2019/10/15 17:24:05.098,C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\meteo.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\File1.cpp</Transaction>
+    <Transaction>2019/10/15 17:32:11.520,=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\File1.h</Transaction>
+    <Transaction>2019/10/15 17:32:42.701,C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\meteo.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projets\Carte 9111\File1.h</Transaction>
+  </Transactions>
+</BorlandProject>
